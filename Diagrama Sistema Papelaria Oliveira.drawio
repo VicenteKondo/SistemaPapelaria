@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="Lqc1XVh1jVUrJIezf-is">
+    <mxGraphModel dx="1959" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="55-97q-QYM9osPYviJLB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-1" target="55-97q-QYM9osPYviJLB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-1" value="INÍCIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-2" target="55-97q-QYM9osPYviJLB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-2" value="Cliente pergunta ao vendedor se possui item &#39;x&#39; na loja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-4" target="55-97q-QYM9osPYviJLB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-4" target="55-97q-QYM9osPYviJLB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-4" value="Vendedor confere" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-6" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-8" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="378" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-10" target="55-97q-QYM9osPYviJLB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-10" value="Vendedor faz uma solicitação para a distribuidora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-12" value="NÃO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="448" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-13" target="55-97q-QYM9osPYviJLB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-13" value="Distribuidora recebe o pedido e cria ordem de seviço" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-15" target="55-97q-QYM9osPYviJLB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-15" value="Verifica quantos dias vai demorar para chegar e repassa para o vendedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="378" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-19" target="55-97q-QYM9osPYviJLB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-19" value="Vendedor passa a informação para o cliente e para o gerente, para ele saber a demanda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="505" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-21" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="698" width="120" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-24" target="55-97q-QYM9osPYviJLB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-24" value="Vendedor oferece outros produtos da loja para o cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="630" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-26" target="55-97q-QYM9osPYviJLB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-26" target="55-97q-QYM9osPYviJLB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-26" value="Cliente está interessado" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="760" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-29" value="NÃO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="55-97q-QYM9osPYviJLB-30" target="55-97q-QYM9osPYviJLB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-30" value="Vendedor realiza a venda e registra no sistema que foi realizado a venda e atualiza a quantidade que possui do produto no estoque" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1000" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="55-97q-QYM9osPYviJLB-32" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="860" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
