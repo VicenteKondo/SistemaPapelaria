@@ -16,7 +16,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('colaboradores/cadastrar/', views.cadastrar_colaborador, name='cadastrar_colaborador'),
+    path('colaboradores/', views.listar_colaboradores, name='listar_colaboradores'),
+    path('colaboradores/editar/<int:id>/', views.editar_colaborador, name='editar_colaborador'),
+    path('colaboradores/excluir/<int:id>/', views.excluir_colaborador, name='excluir_colaborador'),
+
+
 ]
